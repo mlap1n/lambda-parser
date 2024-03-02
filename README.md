@@ -1,8 +1,10 @@
 # lambda-parser
 
-## Run
+This repository contains an C++ implementation of a Lambda Calculus parser.
+
+## Building and Running
 ```bash
-g++ parser.cpp main.cpp -o parser
+g++ -std=c++17 parser.cpp main.cpp -o parser
 ```
 
 ```bash
